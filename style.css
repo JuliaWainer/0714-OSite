@@ -46,3 +46,19 @@ section{
     margin-left: 3px;
     margin-right: 5px;
 }
+.img1{
+    height: 70%;
+    width: 40%;
+    padding-left: 2%;
+    float: left;
+
+}
+article h1{
+   padding-left: 3%;
+   background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+   text-indent: 10px;
+}
+article p{
+    padding-top: 1%;
+    padding-left: 10px;
+}
