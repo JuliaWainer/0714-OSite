@@ -47,8 +47,16 @@ section{
     margin-right: 5px;
 }
 aside h1{
-
+    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20%;
 }
 aside ul li{
+    width: 90%;
+    margin-left: 5%;
+    color: #080008;
+    display: block;
     background-color: white;
+    text-indent: 10px;
 }
