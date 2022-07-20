@@ -57,20 +57,21 @@ article h1{
    padding-left: 3%;
    background-image:linear-gradient(to right, #ef1e8b ,#fde200, #35B1F2);
    text-indent: 10px;
+   text-align: center;
 }
 article p{
     padding-top: 1%;
     margin-left: 10px;
     margin-top: 3%;
+    text-align: justify;
+    text-indent: 20px;
 }
 article a{
     background-image: linear-gradient(to right, #ef1e8b, #fde200, #35B1F2); 
-    width: 11%;
-    height: 21px;
     display: inline-block;
-    float: right;
     margin-top: 4%;
-    margin-right: 20px;
+    margin-right: 42px;
     text-decoration: none;
     color: #080008;
+    float: right;
 }
